@@ -1,0 +1,46 @@
+body{
+    background: rgb(120, 0, 102);
+    font: normal 18pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.501);
+    border-radius: 10px;
+    padding: 15px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 5px 5px 10px 
+    rgba(133, 133, 133, 0.222);
+    font-size: 30px;
+
+}
+
+input#btn{
+    color: #333333;
+    border: 2px solid #333;
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px rgb(135, 135, 135);
+    
+}
+
+img{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    
+}
+
+div#name{
+    text-align: center;
+    font-style: italic;  
+}
+
+
