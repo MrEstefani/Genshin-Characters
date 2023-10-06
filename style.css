@@ -1,16 +1,18 @@
 body{
-    background: rgb(120, 0, 102);
+    background: rgb(205, 143, 196);
     font: normal 18pt Arial;
+    transition: .5s ;
 }
 
 header{
-    color: white;
+    color: black;
+    font-family: 'Times New Roman';
     text-align: center;
 }
 
 section{
     text-align: center;
-    background: rgba(255, 255, 255, 0.501);
+    background: rgba(255, 255, 255, 0.165);
     border-radius: 10px;
     padding: 15px;
     width: 800px;
