@@ -3,3 +3,4 @@ This is a small project created to select characters from Genshin Impact using j
 Basically it is based on two main questions:
 1 - the character's gender.
 2 - the character's vision.
+***
