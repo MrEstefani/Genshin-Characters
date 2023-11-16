@@ -7,6 +7,7 @@ var visio = ''
 //saida
 var res = document.getElementById("res")
 var limpar = document.getElementById("enter")
+
 //saida - imagem
 var img = document.createElement('img')
 img.setAttribute('id','picture')
@@ -108,5 +109,6 @@ var name = document.getElementById('name')
     res.style.textAlign = 'center'
     res.innerHTML = ` It's a ${gen} with elemental vision ${visio}.`
     res.appendChild(img) 
+    
 }
     

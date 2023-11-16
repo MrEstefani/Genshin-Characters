@@ -23,33 +23,19 @@ section{
 
 }
 
-input#btn{
-    color: #333333;
-    border: 2px solid #333;
-    width: 500px;
-    height: 40px;
-    font-size: 20px;
-    box-shadow: 5px 5px 10px rgb(135, 135, 135);
+#btn{   
+    border-color: transparent;
+    background: transparent ;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;   
     
 }
 
 img{
-    width: 600px;
-    height: 600px;
-    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
     
 }
-
-div#name{
-    text-align: center;
-    font-style: italic;  
-}
-
-footer{
-    font: 18pt Arial;
-    text-align: center;
-    font-style: italic;
-
-}
-
 
